@@ -6,7 +6,7 @@ class _StringsAr extends _StringsI18n {
 
   @override
   String getCancelText() {
-    return 'ألغاء';
+    return 'إلغاء';
   }
 
   @override
